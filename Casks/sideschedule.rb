@@ -10,7 +10,7 @@ cask "sideschedule" do
   # Matches LSMinimumSystemVersion in Scripts/Info.plist — without this,
   # brew installs happily on an unsupported OS and the failure only shows
   # up as the app silently refusing to launch.
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   livecheck do
     url :url
