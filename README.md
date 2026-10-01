@@ -18,5 +18,5 @@ here instead, use `brew upgrade --cask --greedy`.
 ## Source
 
 Release binaries and the update feed live in
-[4IngoJ/sideschedule-releases](https://github.com/4IngoJ/sideschedule-releases).
+[4IngoJ/sideschedule](https://github.com/4IngoJ/sideschedule).
 This tap only carries the cask definition that points at them.
