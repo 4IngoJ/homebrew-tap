@@ -1,6 +1,6 @@
 cask "tonecue" do
-  version "2.0.0"
-  sha256 "828032beba13ed0b26445676a51a1151552d5987bf69ab8422356dbc1d342ab1"
+  version "2.1.0"
+  sha256 "9b1aa7bd02a955cb7f5ab473c2eb42f01d63f72f8f1b258e62e500b3cdf1c3db"
 
   url "https://github.com/4IngoJ/tonecue/releases/download/v#{version}/ToneCue-#{version}.dmg"
   name "ToneCue"
